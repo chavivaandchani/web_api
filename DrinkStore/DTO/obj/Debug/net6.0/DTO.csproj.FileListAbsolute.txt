@@ -1,0 +1,48 @@
+F:\פרויקט סופי\DrinkStore\DTO\bin\Debug\net6.0\DTO.deps.json
+F:\פרויקט סופי\DrinkStore\DTO\bin\Debug\net6.0\DTO.dll
+F:\פרויקט סופי\DrinkStore\DTO\bin\Debug\net6.0\DTO.pdb
+F:\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+F:\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+F:\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+F:\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+F:\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+F:\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\DTO.dll
+F:\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\refint\DTO.dll
+F:\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\DTO.pdb
+F:\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\ref\DTO.dll
+E:\web api\פרויקט סופי\DrinkStore\DTO\bin\Debug\net6.0\DTO.deps.json
+E:\web api\פרויקט סופי\DrinkStore\DTO\bin\Debug\net6.0\DTO.dll
+E:\web api\פרויקט סופי\DrinkStore\DTO\bin\Debug\net6.0\DTO.pdb
+E:\web api\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+E:\web api\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+E:\web api\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+E:\web api\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+E:\web api\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+E:\web api\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\DTO.dll
+E:\web api\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\refint\DTO.dll
+E:\web api\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\DTO.pdb
+E:\web api\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\ref\DTO.dll
+F:\web api\פרויקט סופי\DrinkStore\DTO\bin\Debug\net6.0\DTO.deps.json
+F:\web api\פרויקט סופי\DrinkStore\DTO\bin\Debug\net6.0\DTO.dll
+F:\web api\פרויקט סופי\DrinkStore\DTO\bin\Debug\net6.0\DTO.pdb
+F:\web api\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+F:\web api\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+F:\web api\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+F:\web api\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+F:\web api\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+F:\web api\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\DTO.dll
+F:\web api\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\refint\DTO.dll
+F:\web api\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\DTO.pdb
+F:\web api\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\ref\DTO.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DTO\bin\Debug\net6.0\DTO.deps.json
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DTO\bin\Debug\net6.0\DTO.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DTO\bin\Debug\net6.0\DTO.pdb
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\DTO.csproj.AssemblyReference.cache
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\DTO.AssemblyInfoInputs.cache
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\DTO.AssemblyInfo.cs
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\DTO.csproj.CoreCompileInputs.cache
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\DTO.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\refint\DTO.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\DTO.pdb
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DTO\obj\Debug\net6.0\ref\DTO.dll

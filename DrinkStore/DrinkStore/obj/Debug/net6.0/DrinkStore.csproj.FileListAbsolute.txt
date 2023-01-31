@@ -1,0 +1,382 @@
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\appsettings.Development.json
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\appsettings.json
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DrinkStore.exe
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DrinkStore.deps.json
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DrinkStore.runtimeconfig.json
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DrinkStore.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DrinkStore.pdb
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Humanizer.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.csproj.AssemblyReference.cache
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.GeneratedMSBuildEditorConfig.editorconfig
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.AssemblyInfoInputs.cache
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.AssemblyInfo.cs
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.csproj.CoreCompileInputs.cache
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.MvcApplicationPartsAssemblyInfo.cs
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.MvcApplicationPartsAssemblyInfo.cache
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\staticwebassets.build.json
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\staticwebassets.development.json
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\scopedcss\bundle\DrinkStore.styles.css
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.csproj.CopyComplete
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\refint\DrinkStore.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.pdb
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.genruntimeconfig.cache
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\ref\DrinkStore.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Entity.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Repository.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Services.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Services.pdb
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Entity.pdb
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Repository.pdb
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.csproj.AssemblyReference.cache
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.GeneratedMSBuildEditorConfig.editorconfig
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.AssemblyInfoInputs.cache
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.AssemblyInfo.cs
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.csproj.CoreCompileInputs.cache
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.MvcApplicationPartsAssemblyInfo.cs
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.MvcApplicationPartsAssemblyInfo.cache
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\refint\DrinkStore.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.pdb
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.csproj.AssemblyReference.cache
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.AssemblyInfoInputs.cache
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.AssemblyInfo.cs
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.csproj.CoreCompileInputs.cache
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\refint\DrinkStore.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.pdb
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\appsettings.json
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DrinkStore.exe
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DrinkStore.deps.json
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DrinkStore.runtimeconfig.json
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DrinkStore.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DrinkStore.pdb
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Humanizer.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Entity.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Repository.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Services.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Services.pdb
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Entity.pdb
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Repository.pdb
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\scopedcss\bundle\DrinkStore.styles.css
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.csproj.CopyComplete
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.genruntimeconfig.cache
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\ref\DrinkStore.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\appsettings.Development.json
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\appsettings.json
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DrinkStore.staticwebassets.runtime.json
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DrinkStore.exe
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DrinkStore.deps.json
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DrinkStore.runtimeconfig.json
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DrinkStore.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DrinkStore.pdb
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Humanizer.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Entity.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Repository.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Services.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Services.pdb
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Entity.pdb
+E:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Repository.pdb
+E:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.csproj.AssemblyReference.cache
+E:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.GeneratedMSBuildEditorConfig.editorconfig
+E:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.AssemblyInfoInputs.cache
+E:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.AssemblyInfo.cs
+E:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.csproj.CoreCompileInputs.cache
+E:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.MvcApplicationPartsAssemblyInfo.cs
+E:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.MvcApplicationPartsAssemblyInfo.cache
+E:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\staticwebassets.build.json
+E:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\staticwebassets.development.json
+E:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\scopedcss\bundle\DrinkStore.styles.css
+E:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.csproj.CopyComplete
+E:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\refint\DrinkStore.dll
+E:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.pdb
+E:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.genruntimeconfig.cache
+E:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\ref\DrinkStore.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\appsettings.Development.json
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\appsettings.json
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DrinkStore.staticwebassets.runtime.json
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DrinkStore.exe
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DrinkStore.deps.json
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DrinkStore.runtimeconfig.json
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DrinkStore.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DrinkStore.pdb
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Humanizer.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Entity.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Repository.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Services.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Services.pdb
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Entity.pdb
+D:\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Repository.pdb
+D:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.csproj.AssemblyReference.cache
+D:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.AssemblyInfoInputs.cache
+D:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.AssemblyInfo.cs
+D:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.csproj.CoreCompileInputs.cache
+D:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.MvcApplicationPartsAssemblyInfo.cs
+D:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.MvcApplicationPartsAssemblyInfo.cache
+D:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\staticwebassets.build.json
+D:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\staticwebassets.development.json
+D:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\scopedcss\bundle\DrinkStore.styles.css
+D:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.csproj.CopyComplete
+D:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\refint\DrinkStore.dll
+D:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.pdb
+D:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.genruntimeconfig.cache
+D:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\ref\DrinkStore.dll
+F:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.csproj.AssemblyReference.cache
+F:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.GeneratedMSBuildEditorConfig.editorconfig
+F:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.AssemblyInfoInputs.cache
+F:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.AssemblyInfo.cs
+F:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.csproj.CoreCompileInputs.cache
+F:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.MvcApplicationPartsAssemblyInfo.cs
+F:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.MvcApplicationPartsAssemblyInfo.cache
+F:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.dll
+F:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\refint\DrinkStore.dll
+F:\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.pdb
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DrinkStore.staticwebassets.runtime.json
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\AutoMapper.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DTO.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DTO.pdb
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\libman.json
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\NLog.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+E:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\appsettings.Development.json
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\appsettings.json
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\libman.json
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DrinkStore.staticwebassets.runtime.json
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DrinkStore.exe
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DrinkStore.deps.json
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DrinkStore.runtimeconfig.json
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DrinkStore.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DrinkStore.pdb
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\AutoMapper.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Humanizer.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.OpenApi.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\NLog.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DTO.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Entity.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Repository.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Services.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Services.pdb
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DTO.pdb
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Entity.pdb
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\Repository.pdb
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\staticwebassets.build.json
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\staticwebassets.development.json
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\scopedcss\bundle\DrinkStore.styles.css
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.csproj.CopyComplete
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\DrinkStore.genruntimeconfig.cache
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\obj\Debug\net6.0\ref\DrinkStore.dll
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\.nlog1.config
+F:\web api\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\nlog.config
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\libman.json
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DrinkStore.staticwebassets.runtime.json
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\nlog.config
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\NLog.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\NLog.Extensions.Logging.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\NLog.Web.AspNetCore.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DTO.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\DrinkStore\bin\Debug\net6.0\DTO.pdb

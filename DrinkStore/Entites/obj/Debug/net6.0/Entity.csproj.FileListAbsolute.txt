@@ -1,0 +1,70 @@
+E:\web api\פרויקט סופי\DrinkStore\Entites\bin\Debug\net6.0\Entity.deps.json
+E:\web api\פרויקט סופי\DrinkStore\Entites\bin\Debug\net6.0\Entity.runtimeconfig.json
+E:\web api\פרויקט סופי\DrinkStore\Entites\bin\Debug\net6.0\Entity.dll
+E:\web api\פרויקט סופי\DrinkStore\Entites\bin\Debug\net6.0\Entity.pdb
+E:\web api\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+E:\web api\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+E:\web api\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+E:\web api\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+E:\web api\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+E:\web api\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.dll
+E:\web api\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\refint\Entity.dll
+E:\web api\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.pdb
+E:\web api\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.genruntimeconfig.cache
+E:\web api\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\ref\Entity.dll
+F:\web api\פרויקט סופי\DrinkStore\Entites\bin\Debug\net6.0\Entity.deps.json
+F:\web api\פרויקט סופי\DrinkStore\Entites\bin\Debug\net6.0\Entity.runtimeconfig.json
+F:\web api\פרויקט סופי\DrinkStore\Entites\bin\Debug\net6.0\Entity.dll
+F:\web api\פרויקט סופי\DrinkStore\Entites\bin\Debug\net6.0\Entity.pdb
+F:\web api\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+F:\web api\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+F:\web api\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+F:\web api\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+F:\web api\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+F:\web api\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.dll
+F:\web api\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\refint\Entity.dll
+F:\web api\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.pdb
+F:\web api\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.genruntimeconfig.cache
+F:\web api\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\ref\Entity.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\Entites\bin\Debug\net6.0\Entity.deps.json
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\Entites\bin\Debug\net6.0\Entity.runtimeconfig.json
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\Entites\bin\Debug\net6.0\Entity.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\Entites\bin\Debug\net6.0\Entity.pdb
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\refint\Entity.dll
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.pdb
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.genruntimeconfig.cache
+C:\Users\214090821\Desktop\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\ref\Entity.dll
+D:\פרויקט סופי\DrinkStore\Entites\bin\Debug\net6.0\Entity.deps.json
+D:\פרויקט סופי\DrinkStore\Entites\bin\Debug\net6.0\Entity.runtimeconfig.json
+D:\פרויקט סופי\DrinkStore\Entites\bin\Debug\net6.0\Entity.dll
+D:\פרויקט סופי\DrinkStore\Entites\bin\Debug\net6.0\Entity.pdb
+D:\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+D:\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+D:\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+D:\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+D:\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.dll
+D:\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\refint\Entity.dll
+D:\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.pdb
+D:\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.genruntimeconfig.cache
+D:\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\ref\Entity.dll
+F:\פרויקט סופי\DrinkStore\Entites\bin\Debug\net6.0\Entity.deps.json
+F:\פרויקט סופי\DrinkStore\Entites\bin\Debug\net6.0\Entity.runtimeconfig.json
+F:\פרויקט סופי\DrinkStore\Entites\bin\Debug\net6.0\Entity.dll
+F:\פרויקט סופי\DrinkStore\Entites\bin\Debug\net6.0\Entity.pdb
+F:\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.csproj.AssemblyReference.cache
+F:\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.GeneratedMSBuildEditorConfig.editorconfig
+F:\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.AssemblyInfoInputs.cache
+F:\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.AssemblyInfo.cs
+F:\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.csproj.CoreCompileInputs.cache
+F:\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.dll
+F:\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\refint\Entity.dll
+F:\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.pdb
+F:\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\Entity.genruntimeconfig.cache
+F:\פרויקט סופי\DrinkStore\Entites\obj\Debug\net6.0\ref\Entity.dll
